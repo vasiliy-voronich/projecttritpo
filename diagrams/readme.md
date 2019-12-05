@@ -7,7 +7,7 @@
 Пользователь  | объект пользующийся приложением
 
 ## 1.2 Use Cases
-<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Use%20Case%20Structuring%20Template.png">
+<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/use%20case%20(structuring%20template).png">
 
 ### 1.2.1 Изменение уровня сложности
 
