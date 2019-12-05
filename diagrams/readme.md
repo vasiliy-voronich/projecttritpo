@@ -36,8 +36,6 @@
 
 # 2. Activity Diagram 
 
-<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/ActivitySetting%20(1).png">
-
 <img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/continueActivity.png">
 
 <img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/newgameAct.png">
