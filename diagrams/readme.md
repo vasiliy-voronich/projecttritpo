@@ -53,7 +53,7 @@
 
 
 # 6. Deployment Diagram
-<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/DeploymentDiagram.png">
+<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Deployment%20DiagramNew.png">
 
 # 7. Struct Diagram
 <img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/StractDiagram.png">
