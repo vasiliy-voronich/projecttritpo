@@ -49,7 +49,7 @@
 
 
 # 5. State Diagram
-<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/StateDiagramNew.png">
+<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/State%20Diagram.png">
 
 
 # 6. Deployment Diagram
