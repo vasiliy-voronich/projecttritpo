@@ -21,8 +21,6 @@
 ![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/Start.png)
 #### **окно игры:**
 ![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/Play.png)          
-#### окно настроек:
-![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/Setting.png)
 
 
 ## 2.3 Характеристики пользователей:
@@ -45,7 +43,6 @@
 
 2)Возможность продолжить игру
 
-3)Выбор сложности (возможность изменения скорости движения персонажа по карте)
 
 ## 3.2 Нефункциональные требования:
 
