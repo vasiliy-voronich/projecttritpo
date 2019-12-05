@@ -18,7 +18,7 @@
 
 Представлен на мокапах
 #### **Вид приложения при запуске:**
-![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/Start.png)
+![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/Start%20Game.png)
 #### **окно игры:**
 ![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/Play.png)          
 
