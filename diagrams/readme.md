@@ -41,7 +41,7 @@
 <img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/newgameAct.png">
 
 # 3. Sequence Diagram
-<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Sequence.png">
+<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Sequence%20Diagram.png">
 
 
 # 4. Class Diagram
