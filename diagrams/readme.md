@@ -40,8 +40,10 @@
 
 
 # 3. Sequence Diagram
+New game
 <img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Sequence%20new.png">
 
+Continue game
 <img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Sequence%20cont.png">
 
 
