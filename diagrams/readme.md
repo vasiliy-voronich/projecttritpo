@@ -42,6 +42,8 @@
 # 3. Sequence Diagram
 <img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Sequence%20new.png">
 
+<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Sequence%20new.png">
+
 
 # 4. Class Diagram
 <img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Class%20Diagram.png">
