@@ -48,7 +48,7 @@
 
 
 # 4. Class Diagram
-<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Class%20Diagram.png">
+<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/ClassD.png">
 
 
 # 5. State Diagram
