@@ -36,9 +36,8 @@
 
 # 2. Activity Diagram 
 
-<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/continueActivity.png">
+<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Activity%20Diagram%20New.png">
 
-<img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/newgameAct.png">
 
 # 3. Sequence Diagram
 <img src="https://github.com/vasiliy-voronich/projecttritpo/blob/master/diagrams/Sequence%20Diagram.png">
