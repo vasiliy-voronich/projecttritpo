@@ -18,9 +18,11 @@
 
 Представлен на мокапах
 #### **Вид приложения при запуске:**
-![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/Start%20Game.png)
+![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/photo1.jpg)
 #### **окно игры:**
-![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/Play.png)          
+![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/photo4.jpg) 
+![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/photo3.jpg)
+![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/photo2.jpg)
 
 
 ## 2.3 Характеристики пользователей:
@@ -42,6 +44,8 @@
 1)Возможность начать новую игру
 
 2)Возможность продолжить игру
+
+3)Возможность изменения уровня сложности
 
 
 ## 3.2 Нефункциональные требования:
