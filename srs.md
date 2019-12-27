@@ -21,7 +21,9 @@
 ![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/photo1.jpg)
 #### **окно игры:**
 ![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/photo4.jpg) 
+
 ![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/photo3.jpg)
+
 ![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/photo2.jpg)
 
 
