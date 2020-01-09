@@ -24,7 +24,9 @@
 
 ## Пример кода
 
-![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/2.jpg)
+![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/2.jpg) 
+![](https://github.com/vasiliy-voronich/projecttritpo/blob/master/mockup/2.1.jpg)
+
 
 **public class Calendar {  	private static Calendar instance;  	
 private Calendar() {}  	public static getInstance(){
